@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Movie Fornt End Project Screen
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Listing Of Movie
+<img width="1680" alt="Screenshot 2022-05-26 at 7 41 27 AM" src="https://user-images.githubusercontent.com/29426483/170613270-4a0d93c3-31fd-45e2-83b1-6e2bc27f6366.png">
+
+# Detail of Movie
+<img width="1680" alt="Screenshot 2022-05-26 at 7 44 35 AM" src="https://user-images.githubusercontent.com/29426483/170613280-f1367b0c-c4f5-47b3-8909-34e02de22817.png">
+
 
 ## Available Scripts
 
